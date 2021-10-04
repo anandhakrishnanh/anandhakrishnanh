@@ -1,4 +1,4 @@
-<a href="url"><img src="https://github.com/anandhakrishnanh/anandhakrishnanh/blob/main/assets/banner.gif" align="middle" height="300" width="800" ></a>
+<a href="url"><img src="https://github.com/anandhakrishnanh/anandhakrishnanh/blob/main/assets/banner.gif" align="middle" height="300" width="900" ></a>
 ## <p align="center"><h4 align="center"><samp> Machine Learning Engineer from India currently working in Hyderabad at [Techolution](https://techolution.com/) </samp></h4></p>
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 
