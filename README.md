@@ -1,4 +1,4 @@
-![](https://github.com/anandhakrishnanh/anandhakrishnanh/blob/main/assets/banner_hd.gif)
+![](https://github.com/anandhakrishnanh/anandhakrishnanh/blob/main/assets/banner_cropped_hd.gif)
 ## <p align="center"><h4 align="center"><samp> Machine Learning Engineer from India currently working in Hyderabad at [Techolution](https://techolution.com/) </samp></h4></p>
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 
