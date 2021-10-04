@@ -1,4 +1,4 @@
-![](assets/github_banner.mp4)
+![](https://github.com/anandhakrishnanh/anandhakrishnanh/blob/main/assets/banner.gif)
 
 ## <p align="center"><h4 align="center"><samp> Machine Learning Engineer from India currently working in Hyderabad at [Techolution](https://techolution.com/) </samp></h4></p>
 
