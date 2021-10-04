@@ -1,4 +1,4 @@
-![](https://github.com/anandhakrishnanh/anandhakrishnanh/blob/main/assets/banner.gif)
+<img src="https://github.com/anandhakrishnanh/anandhakrishnanh/blob/main/assets/banner.gif" width="700" height="200" />
 
 ## <p align="center"><h4 align="center"><samp> Machine Learning Engineer from India currently working in Hyderabad at [Techolution](https://techolution.com/) </samp></h4></p>
 
