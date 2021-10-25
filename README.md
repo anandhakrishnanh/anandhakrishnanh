@@ -42,5 +42,3 @@ I read books when I can. I wanted to add a widget for my GoodReads but for some 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=anandhakrishnanh/anandhakrishnanh)
 
 
-
-
