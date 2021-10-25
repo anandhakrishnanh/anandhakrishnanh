@@ -11,7 +11,11 @@
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+<div id="gr_updates_widget"><iframe id="the_iframe" src="https://www.goodreads.com/widgets/user_update_widget?height=400&amp;num_updates=5&amp;user=115649215&amp;width=250" width="248" height="330" frameborder="0"></iframe>
 
+<div id="gr_footer">[![Goodreads: Book reviews, recommendations, and discussion](https://s.gr-assets.com/images/layout/goodreads_logo_140.png)](https://www.goodreads.com/)</div>
+
+</div>
 
 
 
