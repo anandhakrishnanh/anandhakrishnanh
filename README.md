@@ -18,8 +18,8 @@
 
 I sometimes write if I find something interest to share. The latest one is the one below, I plan to write more when I get more time. 
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@anandhakrishnanh/0"><img width=400 src="https://github-readme-medium-recent-article.vercel.app/medium/@anandhakrishnanh/0" ></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@anandhakrishnanh/0"><img width=400 src="https://github-readme-medium-recent-article.vercel.app/medium/@anandhakrishnanh/0" ></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@anandhakrishnanh/0"><img width=500 src="https://github-readme-medium-recent-article.vercel.app/medium/@anandhakrishnanh/0" ></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@anandhakrishnanh/0"><img width=500 src="https://github-readme-medium-recent-article.vercel.app/medium/@anandhakrishnanh/0" ></a>
 
 ### <p align="center"><h4 align="center"><samp> Technologies I work on 👨‍💻 </samp></h4></p>
 
