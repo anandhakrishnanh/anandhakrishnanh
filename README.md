@@ -11,18 +11,24 @@
 </p>
 <hr>
 
+I sometimes write if I find something interest to share. The latest one is the one below
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@anandhakrishnanh/0"><img width=400 src="https://github-readme-medium-recent-article.vercel.app/medium/@anandhakrishnanh/0" alt="Recent Article 0"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@anandhakrishnanh/0"><img width=400 src="https://github-readme-medium-recent-article.vercel.app/medium/@anandhakrishnanh/0" alt="Recent Article 1"></a>
+
+
 #### <p align="center"><h4 align="center"><samp> What I read 📚 </samp></h4></p>
 I read books when I can. I wanted to add a widget for my GoodReads but for some reason HTML is not allowed on GitHub pages. The widget can be found [here](https://github.com/anandhakrishnanh/anandhakrishnanh/blob/main/assets/goodreads.html) 
     
 #### Books I've read in 2021 ( i'll probably update it )
 
+- [ ] [Children of Time #1 - Adrian Tchaikovsky ](https://www.goodreads.com/book/show/25499718-children-of-time)
 - [x] [Meditations - Marcus Aurelius](https://www.goodreads.com/book/show/30659.Meditations)
 - [x] [Deception Point - Dan Brown](https://www.goodreads.com/book/show/976.Deception_Point)
 - [x] [Tuesdays with Morrie - Mitch Albom](https://www.goodreads.com/book/show/6900.Tuesdays_with_Morrie)
 - [x] [Tao Te Ching - Lao Tzu](https://www.goodreads.com/book/show/67896.Tao_Te_Ching)
 - [x] [Kafka on the Shore - Haruki Murakami](https://www.goodreads.com/book/show/4929.Kafka_on_the_Shore)
 - [x] [Dune #1 - Frank Herbert](https://www.goodreads.com/book/show/43419431-dune)
-- [ ] [Children of Time #1 - Adrian Tchaikovsky ](https://www.goodreads.com/book/show/25499718-children-of-time)
 
 
 ## <p align="center"><h4 align="center"><samp> Who doesn't like some stats 🤓 </samp></h4></p>
