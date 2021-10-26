@@ -11,25 +11,28 @@
 </p>
 <hr>
 
-I sometimes write if I find something interest to share. The latest one is the one below
+* Currently an Associate Machine Learning Engineer for Techolution working on Face Recognition, Voice Recognition and ML at the Edge 
+* I plan on working on technologies are that fun to use and implement so most the projects might come across as hacky but they are a blast to work on
+* I mainly code in Python but I have done projects in C and R. I want to do more on C/C++ because it probably is harder and more fun to work on. 
+* This repo will be mostly for fun so if you wanna help on feel free to create a PR. Happy Hacking!
+
+I sometimes write if I find something interest to share. The latest one is the one below, I plan to write more when I get more time. 
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@anandhakrishnanh/0"><img width=400 src="https://github-readme-medium-recent-article.vercel.app/medium/@anandhakrishnanh/0" alt="Recent Article 0"></a>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@anandhakrishnanh/0"><img width=400 src="https://github-readme-medium-recent-article.vercel.app/medium/@anandhakrishnanh/0" alt="Recent Article 1"></a>
 
+### <p align="center"><h4 align="center"><samp> Technologies I work on 👨‍💻 </samp></h4></p>
 
-#### <p align="center"><h4 align="center"><samp> What I read 📚 </samp></h4></p>
-I read books when I can. I wanted to add a widget for my GoodReads but for some reason HTML is not allowed on GitHub pages. The widget can be found [here](https://github.com/anandhakrishnanh/anandhakrishnanh/blob/main/assets/goodreads.html) 
-    
-#### Books I've read in 2021 ( i'll probably update it )
+![Python](https://img.shields.io/badge/python-blue?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=flat-square&logo=TensorFlow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-blue?style=flat-square&logo=pandas&logoColor=black)
+![Google Cloud Platform](https://img.shields.io/badge/GoogleCloud-yellow?style=flat-square&logo=GoogleCloud&logoColor=blue)
+![Numpy](https://img.shields.io/badge/Numpy-white?style=flat-square&logo=numpy&logoColor=blue)
+![Keras](https://img.shields.io/badge/Keras-brown?style=flat-square&logo=keras&logoColor=white)
+![openCV](https://img.shields.io/badge/OpenCV-white?style=flat-square&logo=opencv&logoColor=blue)
+![openCV](https://img.shields.io/badge/OpenCV-white?style=flat-square&logo=opencv&logoColor=blue)
 
-- [ ] [Children of Time #1 - Adrian Tchaikovsky ](https://www.goodreads.com/book/show/25499718-children-of-time)
-- [x] [Meditations - Marcus Aurelius](https://www.goodreads.com/book/show/30659.Meditations)
-- [x] [Deception Point - Dan Brown](https://www.goodreads.com/book/show/976.Deception_Point)
-- [x] [Tuesdays with Morrie - Mitch Albom](https://www.goodreads.com/book/show/6900.Tuesdays_with_Morrie)
-- [x] [Tao Te Ching - Lao Tzu](https://www.goodreads.com/book/show/67896.Tao_Te_Ching)
-- [x] [Kafka on the Shore - Haruki Murakami](https://www.goodreads.com/book/show/4929.Kafka_on_the_Shore)
-- [x] [Dune #1 - Frank Herbert](https://www.goodreads.com/book/show/43419431-dune)
-
+<hr>
 
 ## <p align="center"><h4 align="center"><samp> Who doesn't like some stats 🤓 </samp></h4></p>
 
